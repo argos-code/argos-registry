@@ -18,7 +18,6 @@ the surrounding text is yours.
 |---|---|
 | p4u/vocdoni-app | yes |
 | vocdoni/explorer-ng | yes |
-| vocdoni/integrator-sdk | no |
 | vocdoni/saas-backend | no |
 | vocdoni/vocdoni-app | no |
 | vocdoni/vocdoni-leads-crm | no |
