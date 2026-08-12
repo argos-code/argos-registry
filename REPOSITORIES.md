@@ -16,7 +16,6 @@ the surrounding text is yours.
 <!-- argos:repos -->
 | Repository | UI testing |
 |---|---|
-| p4u/vocdoni-app | yes |
 | vocdoni/explorer-ng | yes |
 | vocdoni/integrator-sdk | no |
 | vocdoni/saas-backend | no |
