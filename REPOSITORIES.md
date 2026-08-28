@@ -16,11 +16,11 @@ the surrounding text is yours.
 <!-- argos:repos -->
 | Repository | UI testing |
 |---|---|
+| vocdoni/dvote-protobuf | no |
 | vocdoni/explorer-ng | yes |
 | vocdoni/integrator-sdk | no |
 | vocdoni/saas-backend | no |
 | vocdoni/vocdoni-app | yes |
 | vocdoni/vocdoni-leads-crm | no |
 | vocdoni/vocdoni-node | no |
-| vocdoni/dvote-protobuf | no |
 <!-- /argos:repos -->
