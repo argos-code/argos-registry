@@ -22,4 +22,5 @@ the surrounding text is yours.
 | vocdoni/vocdoni-app | yes |
 | vocdoni/vocdoni-leads-crm | no |
 | vocdoni/vocdoni-node | no |
+| vocdoni/dvote-protobuf | no |
 <!-- /argos:repos -->
