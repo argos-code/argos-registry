@@ -18,7 +18,7 @@ the surrounding text is yours.
 |---|---|
 | vocdoni/dvote-protobuf | no |
 | vocdoni/explorer-ng | yes |
-| vocdoni/integrator-sdk | no |
+| vocdoni/vocdoni-integrator-sdk | no |
 | vocdoni/saas-backend | no |
 | vocdoni/vocdoni-app | yes |
 | vocdoni/vocdoni-leads-crm | no |
