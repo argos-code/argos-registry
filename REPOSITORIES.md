@@ -23,4 +23,5 @@ the surrounding text is yours.
 | vocdoni/vocdoni-integrator-sdk | no |
 | vocdoni/vocdoni-leads-crm | no |
 | vocdoni/vocdoni-node | no |
+| vocdoni/skills | no |
 <!-- /argos:repos -->
