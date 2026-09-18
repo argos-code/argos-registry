@@ -19,9 +19,9 @@ the surrounding text is yours.
 | vocdoni/dvote-protobuf | no |
 | vocdoni/explorer-ng | yes |
 | vocdoni/saas-backend | no |
+| vocdoni/skills | no |
 | vocdoni/vocdoni-app | yes |
 | vocdoni/vocdoni-integrator-sdk | no |
 | vocdoni/vocdoni-leads-crm | no |
 | vocdoni/vocdoni-node | no |
-| vocdoni/skills | no |
 <!-- /argos:repos -->
